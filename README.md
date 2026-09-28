@@ -16,6 +16,7 @@ The DhobiG home page provides a simple and modern interface where customers can:
 * ⭐ View services and customer reviews
 * 🤖 Access the AI Assistant
 * 📍 Manage pickup and delivery addresses
+  
   <img width="959" height="466" alt="image" src="https://github.com/user-attachments/assets/1af2dbf3-9b42-40d3-a7a7-dfe451eae83f" />
 
 
@@ -34,6 +35,8 @@ Customers can browse available laundry services and select the services they nee
 * Calculate order pricing
 * Add services to an order
 * Proceed to booking
+
+<img width="955" height="470" alt="image" src="https://github.com/user-attachments/assets/ca126b74-10cb-46aa-bc59-0adc6877832f" />
 
 ---
 
@@ -58,10 +61,14 @@ Order Created
 Customers can book laundry pickups and manage their orders through the application.
 
 ---
+<img width="959" height="436" alt="image" src="https://github.com/user-attachments/assets/1e9b753d-3cef-42cc-9c1a-7798eb15fd70" />
 
 ## 🚚 Order Tracking
 
 Customers can view the current status of their laundry orders.
+
+ <img width="959" height="428" alt="image" src="https://github.com/user-attachments/assets/6a85fcb7-75da-4418-a145-a08639007bec" />
+
 
 ### Order lifecycle
 
@@ -97,6 +104,8 @@ The assistant can help users with:
 * 📍 Pickup and delivery information
 * ❓ General DhobiG questions
 * 💬 Natural-language conversations
+
+<img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/37f7a0f9-5994-436b-aba5-486f30a11549" />
 
 ---
 
