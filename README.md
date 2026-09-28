@@ -16,6 +16,8 @@ The DhobiG home page provides a simple and modern interface where customers can:
 * ⭐ View services and customer reviews
 * 🤖 Access the AI Assistant
 * 📍 Manage pickup and delivery addresses
+  <img width="959" height="466" alt="image" src="https://github.com/user-attachments/assets/1af2dbf3-9b42-40d3-a7a7-dfe451eae83f" />
+
 
 ---
 
